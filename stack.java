@@ -22,3 +22,5 @@ import java.util.Stack;
 
      }
 }
+
+// stacks have five unique items and charactiristics which are
