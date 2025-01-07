@@ -8,3 +8,6 @@ import java.util.Stack;
 
         // with the ush item we can push the items
          // think of it as we are adding new clothes to the stack of the clothes
+        stack.push("Battlefield");
+         stack.push("Hitman 3");
+         stack.push("resident evil");
