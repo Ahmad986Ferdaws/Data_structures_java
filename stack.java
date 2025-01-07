@@ -17,3 +17,8 @@ import java.util.Stack;
       // os it does mean that it stack the last in first out will be for removing and the first in last out.
        String favgame  = stack.pop();
          System.out.println(favgame);
+
+            System.out.println(stack);
+
+     }
+}
