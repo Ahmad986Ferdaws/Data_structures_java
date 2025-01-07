@@ -24,3 +24,6 @@ import java.util.Stack;
 }
 
 // stacks have five unique items and charactiristics which are
+// push item on the top of the stack
+// we can pop item from top
+// and we can peak from the top of the stack
