@@ -1,3 +1,4 @@
+
 import java.util.Stack;
 
  public class Main {
@@ -13,3 +14,4 @@ import java.util.Stack;
          stack.push("resident evil");
       // here we use the pop method to remove  the item form our stack and the item that will be removed is
       // the item on the top or the most recent,
+      // os it does mean that it stack the last in first out will be for removing and the first in last out.
