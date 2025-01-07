@@ -11,3 +11,4 @@ import java.util.Stack;
         stack.push("Battlefield");
          stack.push("Hitman 3");
          stack.push("resident evil");
+      // here we use the pop method to remove  the item form our stack and the item that will be removed is
