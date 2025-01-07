@@ -15,3 +15,5 @@ import java.util.Stack;
       // here we use the pop method to remove  the item form our stack and the item that will be removed is
       // the item on the top or the most recent,
       // os it does mean that it stack the last in first out will be for removing and the first in last out.
+       String favgame  = stack.pop();
+         System.out.println(favgame);
