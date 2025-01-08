@@ -34,4 +34,8 @@ public class queue {
 
 
 // Checks if the queue is empty
+
+     // Removes all elements from the queue
+//        clear();
+
 //        isEmpty();
