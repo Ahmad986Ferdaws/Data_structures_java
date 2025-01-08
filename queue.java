@@ -42,3 +42,9 @@ public class queue {
 //        contains(Object o);
 //```
 //        isEmpty();
+
+  Queue<String> queue = new LinkedList<>();
+        // but over here we cannot inniate a new Queue like we did in the Stack cause
+        // queue is not a class rather an interface so we class that implements queue and
+        // that will be linked lists
+ 
