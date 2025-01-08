@@ -21,3 +21,6 @@ public class queue {
 
 // Removes and returns the head; returns null if empty
 //        poll();
+
+     // Retrieves the head without removing; throws an exception if empty
+//        element();
