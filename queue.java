@@ -52,4 +52,15 @@ public class queue {
         queue.offer("a");
         queue.offer("b");
         queue.offer("c");
+
+      System.out.println(queue);
+
+
+        // we can ususally use the queues for like the buffer statements which are
+        // as fast we write it will show the typed words like the first in and first out
+
+    }
+}
+
+     
  
