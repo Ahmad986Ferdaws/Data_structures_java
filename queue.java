@@ -24,3 +24,10 @@ public class queue {
 
      // Retrieves the head without removing; throws an exception if empty
 //        element();
+
+     
+     // Retrieves the head without removing; returns null if empty
+//        peek();
+
+// Returns the number of elements in the queue
+//        size();
