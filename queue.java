@@ -9,3 +9,6 @@ import java.util.LinkedList;
 public class queue {
 
     public static void main(String[]args){
+
+ // Adds an element to the queue; throws an exception if full
+//        add(E e);
