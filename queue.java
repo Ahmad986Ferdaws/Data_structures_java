@@ -31,3 +31,7 @@ public class queue {
 
 // Returns the number of elements in the queue
 //        size();
+
+
+// Checks if the queue is empty
+//        isEmpty();
