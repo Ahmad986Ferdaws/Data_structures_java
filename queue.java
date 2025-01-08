@@ -12,3 +12,12 @@ public class queue {
 
  // Adds an element to the queue; throws an exception if full
 //        add(E e);
+
+ // Adds an element to the queue; returns false if full
+//        offer(E e);
+
+// Removes and returns the head; throws an exception if empty
+//        remove();
+
+// Removes and returns the head; returns null if empty
+//        poll();
