@@ -38,4 +38,7 @@ public class queue {
      // Removes all elements from the queue
 //        clear();
 
+     // Checks if the queue contains a specific element
+//        contains(Object o);
+//```
 //        isEmpty();
