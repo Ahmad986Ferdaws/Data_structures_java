@@ -47,4 +47,9 @@ public class queue {
         // but over here we cannot inniate a new Queue like we did in the Stack cause
         // queue is not a class rather an interface so we class that implements queue and
         // that will be linked lists
+
+     
+        queue.offer("a");
+        queue.offer("b");
+        queue.offer("c");
  
