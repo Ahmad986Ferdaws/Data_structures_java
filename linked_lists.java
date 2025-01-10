@@ -21,3 +21,6 @@ public class linked_lists {
     lik_ist.add("Java");
     lik_ist.add("Python");
     lik_ist.add("C");
+
+         LinkedList<String> new_lik = lik_ist;
+    System.out.println(new_lik);
