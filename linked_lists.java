@@ -12,3 +12,6 @@ import java.util.LinkedList;
 
 public class linked_lists {
     public static void main(String[]args){
+
+    LinkedList<String> lik_ist = new LinkedList<String>();
+//add: Add a new node (start, end, or specific position).
