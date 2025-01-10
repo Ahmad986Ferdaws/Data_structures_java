@@ -8,3 +8,7 @@ import java.util.LinkedList;
 // the element 1 million.
 // 2- but in this case linked lists are more beneficiary cause the linked lists have their own specific nodes connected
 // with the element.
+
+
+public class linked_lists {
+    public static void main(String[]args){
