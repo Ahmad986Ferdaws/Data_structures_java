@@ -15,3 +15,9 @@ public class linked_lists {
 
     LinkedList<String> lik_ist = new LinkedList<String>();
 //add: Add a new node (start, end, or specific position).
+
+     lik_ist.add("Hello");
+    lik_ist.add("World");
+    lik_ist.add("Java");
+    lik_ist.add("Python");
+    lik_ist.add("C");
