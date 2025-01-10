@@ -6,3 +6,5 @@ public static void main(String[] args) {
 
    queue.add(1.0);
      queue.add(2.0);
+        queue.add(3.0);
+        queue.add(4.0);
