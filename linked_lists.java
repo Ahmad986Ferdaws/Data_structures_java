@@ -24,3 +24,5 @@ public class linked_lists {
 
          LinkedList<String> new_lik = lik_ist;
     System.out.println(new_lik);
+
+    //Delete: Remove a node (start, end, or specific position).
