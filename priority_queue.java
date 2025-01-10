@@ -8,3 +8,7 @@ public static void main(String[] args) {
      queue.add(2.0);
         queue.add(3.0);
         queue.add(4.0);
+
+ while (!queue.isEmpty()) {
+            System.out.println(queue.poll());
+        }
