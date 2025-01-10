@@ -12,3 +12,5 @@ public static void main(String[] args) {
  while (!queue.isEmpty()) {
             System.out.println(queue.poll());
         }
+    }
+}
