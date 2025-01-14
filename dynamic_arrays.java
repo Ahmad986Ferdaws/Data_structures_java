@@ -9,7 +9,7 @@ public class dynamic_arrays {
 public static void main(String[] args) {
 
 
-
+ArrayList<String> aray = new ArrayList<>();
 
 
 
