@@ -6,4 +6,4 @@ import java.util.*;
 // on the other hand dynamic arrays
 
 public class dynamic_arrays {
-public static void
+public static void main(String[] args) 
