@@ -4,3 +4,5 @@ import java.util.*;
 
 // static array is fixed array, once we have declared it we cannot change the capacity of it
 // on the other hand dynamic arrays
+
+public class dynamic_arrays {
