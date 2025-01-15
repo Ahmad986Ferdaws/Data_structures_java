@@ -23,3 +23,6 @@ ArrayList<String> aray = new ArrayList<>();
 // Characteristics:
 // Allocated in contiguous memory.
 // Fast access due to fixed size.
+
+// Inefficient if size needs change (can waste or lack space).
+// Real-World Scenario:
