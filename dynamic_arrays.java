@@ -19,7 +19,8 @@ ArrayList<String> aray = new ArrayList<>();
 
 
 // Static Arrays
-// Definition: Fixed-size arrays where the size is determined at the time of creation and cannot be changed during runtime.
+// Definition: Fixed-size arrays where the size is 
+// determined at the time of creation and cannot be changed during runtime.
 // Characteristics:
 // Allocated in contiguous memory.
 // Fast access due to fixed size.
