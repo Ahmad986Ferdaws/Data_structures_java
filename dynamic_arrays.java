@@ -29,3 +29,14 @@ ArrayList<String> aray = new ArrayList<>();
 
 // Classroom Attendance: A teacher knows the class has exactly 30 students. They create a list (array) of size 30 to record
 // attendance. If more students join, the list cannot grow.
+
+// Dynamic Arrays
+// Definition: Arrays that can resize (grow or shrink) during runtime
+// , often implemented using data structures like vectors or ArrayLists.
+// Characteristics:
+// Efficient memory usage.
+// Allows addition/removal of elements dynamically.
+// May involve overhead (e.g., copying data when resizing).
+// Real-World Scenario:
+// Playlist on Music App: A user starts with a playlist of 10 songs but 
+    // keeps adding new tracks. The playlist (dynamic array) grows as needed.
