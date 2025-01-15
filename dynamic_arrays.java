@@ -26,3 +26,6 @@ ArrayList<String> aray = new ArrayList<>();
 
 // Inefficient if size needs change (can waste or lack space).
 // Real-World Scenario:
+
+// Classroom Attendance: A teacher knows the class has exactly 30 students. They create a list (array) of size 30 to record
+// attendance. If more students join, the list cannot grow.
