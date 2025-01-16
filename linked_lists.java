@@ -34,6 +34,8 @@ public class linked_lists {
 lik_ist.remove(1);
 
 //Search: Find a node with a specific value.
+ lik_ist.lastIndexOf("no where to go");
+//        Traverse: Visit each node in the list sequentially.
 
         
 
