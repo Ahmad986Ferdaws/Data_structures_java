@@ -28,3 +28,8 @@ public class linked_lists {
 //Delete: Remove a node (start, end, or specific position).
 
     //Delete: Remove a node (start, end, or specific position).
+
+     lik_ist.removeFirst();
+        lik_ist.removeLast();
+        lik_ist.remove(1);
+
