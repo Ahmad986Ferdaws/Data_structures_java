@@ -38,6 +38,16 @@ lik_ist.remove(1);
 //        Traverse: Visit each node in the list sequentially.
         //                Reverse: Change the order of nodes in the list.
 
+        
+     System.out.println(lik_ist);
+        System.out.println(lik_ist.indexOf("C"));
+        System.out.println(lik_ist.peekFirst());
+        System.out.println(lik_ist.peekLast());
+        lik_ist.addFirst("e");
+        lik_ist.addLast("d");
+
+    }
+}
 
 
 
