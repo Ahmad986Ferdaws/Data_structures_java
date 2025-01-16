@@ -31,5 +31,9 @@ public class linked_lists {
 
      lik_ist.removeFirst();
         lik_ist.removeLast();
-        lik_ist.remove(1);
+lik_ist.remove(1);
+
+//Search: Find a node with a specific value.
+
+        
 
