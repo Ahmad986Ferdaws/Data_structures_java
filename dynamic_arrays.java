@@ -36,7 +36,7 @@ ArrayList<String> aray = new ArrayList<>();
 // as mush as we would like to update it on time
 // , often implemented using data structures like vectors or ArrayLists.
 // Characteristics:
-// Efficient memory usage.aaaaa
+// Efficient memory usage.aa
 // Allows addition/removal of elements dynamically.
 // May involve overhead (e.g., copying data when resizing).
 // Real-World Scenario:
