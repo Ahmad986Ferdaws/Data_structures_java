@@ -33,6 +33,7 @@ ArrayList<String> aray = new ArrayList<>();
 
 // Dynamic Arrays
 // Definition: Arrays that can resize (grow or shrink) during runtime
+// as mush as we would like to update it on time
 // , often implemented using data structures like vectors or ArrayLists.
 // Characteristics:
 // Efficient memory usage.
