@@ -1,3 +1,4 @@
+
 import java.util.LinkedList;
 
 ////////////////////////////////////////////////////
@@ -49,6 +50,7 @@ lik_ist.remove(1);
     }
 }
 
+// in this part of the applcaition that we will be using the wat the way, so like for example if i wanna do somehing really 
 
 
         
