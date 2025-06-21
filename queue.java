@@ -6,7 +6,7 @@ import java.util.LinkedList;
 
 // unlike the stack which we are using it for first in last out, it is directly the opposite of it
 
-public class queue {
+public class queue {aaa
 
     public static void main(String[]args){
 
